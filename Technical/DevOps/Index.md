@@ -9,4 +9,9 @@ GitOps is the implementation of DevOps best practices that emphasizes using Git 
 
 ![[DevOps workflow.png]]
 
-![GitOps workflow.png](app://64a262bf5f092fe25916de1c0f72e2d23a84/Users/harrydang/Documents/Obsidian%20Vault/Technical/DevOps/GitOps/Resources/GitOps%20workflow.png?1700326875376)
+
+![[GitOps workflow.png]]
+
+## How EKS work?
+
+![[How ESK work.png]]

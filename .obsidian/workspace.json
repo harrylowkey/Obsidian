@@ -11,15 +11,41 @@
             "id": "3f107181e1473bc2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Technical/DevOps/GitOps/ArgoCD/Resources/Multiple clusters source tree.png"
+              }
+            }
+          },
+          {
+            "id": "bb8b317d539a33ae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Plan.canvas",
+                "viewState": {
+                  "x": -990,
+                  "y": -2285,
+                  "zoom": -0.8585275740471198
+                }
+              }
+            }
+          },
+          {
+            "id": "4beed96b2457bdbd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/DevOps/Index.md",
+                "file": "Technical/Database/Transaction/Locking & Isolation levels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/DevOps/Index.md",
+                "file": "Technical/Database/Transaction/Locking & Isolation levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/DevOps/Index.md",
+                "file": "Technical/Database/Transaction/Locking & Isolation levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/DevOps/Index.md"
+                "file": "Technical/Database/Transaction/Locking & Isolation levels.md"
               }
             }
           }
@@ -146,54 +172,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f107181e1473bc2",
+  "active": "4beed96b2457bdbd",
   "lastOpenFiles": [
+    "Technical/Database/Transaction/ACID.md",
+    "Technical/Database/Transaction/Locking & Isolation levels.md",
+    "Technical/Database/Transaction/Locking & Isolation levels",
+    "Technical/Database/postgres.md",
+    "Technical/Database/Transaction",
+    "Technical/Database/mongo.md",
+    "Technical/Database/Index.md",
+    "Technical/Database/Compare SQL vs noSQL database.md",
+    "Plan.canvas",
+    "Technical/Microservices",
+    "TODO.md",
+    "Migration.md",
+    "Company/Renyoo/Note.md",
+    "Company/Renyoo/Microservice deployment.md",
+    "Technical/DevOps/k8s/Cheatsheets.md",
+    "Post.md",
+    "Technical/DevOps/k8s/Useful commands.md",
+    "Technical/DevOps/k8s/Index.md",
+    "aaa.md",
+    "Untitled",
+    "Technical/Database/Design Patterns/Data Access Layer.md",
+    "Technical/DevOps/GitOps/ArgoCD/Resources/Multiple clusters source tree.png",
+    "Technical/DevOps/Index.md",
+    "Technical/DevOps/Resources",
+    "Technical/DevOps/Resources.md",
+    "Technical/DevOps/Resources/How ESK work.png",
+    "Technical/DevOps/DevOps workflow.png",
+    "Technical/DevOps/Invalidate cache cloufront.md",
+    "Technical/DevOps/Helm/Index.md",
+    "Technical/DevOps/Helm",
     "Technical/DevOps/GitOps/Workflows.md",
     "Technical/DevOps/GitOps/Resources/GitOps workflow.png",
-    "Technical/DevOps/Index.md",
-    "Technical/DevOps/DevOps workflow.png",
+    "Technical/DevOps/GitOps/ArgoCD/Index.md",
+    "Technical/DevOps/GitOps/ArgoCD/Resources",
+    "Technical/DevOps/GitOps/ArgoCD",
+    "Ideas/Learn new vocabulary by sentences.md",
+    "Technical/Database/ORM/SQLAlchemy.md",
+    "Ideas",
     "Technical/DevOps/GitOps/Resources",
     "Technical/Research/Saas vs PaaS vs IaaS.md",
-    "Technical/DevOps/GitOps",
-    "Technical/Untitled",
-    "Technical/Frontend",
     "Technical/Interview questions.md",
-    "Technical/Security/Base64.md",
-    "Technical/Linux/Linux.md",
     "Technical/Linux/File systems tree 2.webp",
     "Technical/Linux/File systems tree.png",
-    "Technical/Data structures/Hashmap.md",
     "Technical/Docker/Architecture.png",
-    "Technical/Docker/Best practices.md",
-    "Technical/Docker/Commands.md",
-    "Technical/Docker/Persist the DB.md",
-    "Technical/Docker/Architecture.md",
-    "Technical/Github/Github Actions/workflows.md",
-    "Technical/DevOps",
-    "Technical/DevOps/k8s/Index.md",
-    "Technical/DevOps/k8s/Cheatsheets.md",
     "Technical/DevOps/k8s/Resources/k8s resources divide.png",
     "Technical/DevOps/k8s/Resources/k8s overlay network.png",
     "Technical/DevOps/k8s/Resources/k8s inside infra.png",
-    "Technical/DevOps/k8s/Resources/k8s deployment architecture.png",
-    "Technical/DevOps/k8s/Resources/k8s cluster.png",
-    "TODO.md",
-    "Plan.canvas",
-    "Untitled.canvas",
-    "2023-11-18.md",
-    "Design Patterns/Design Patterns.md",
-    "Company/Hodfords/Training/Github issues feature request template.md",
-    "Company/Renyoo/Note.md",
-    "Company/Renyoo/Microservice deployment.md",
-    "Company",
-    "Lịch sử/Lịch sử Việt Nam.md",
-    "Phong thủy/Ngũ hành tương sinh tương khắc khắc.md",
-    "Lịch sử/Lịch sử Châu Âu.md",
-    "Books/Binh pháp Tôn Tử.md",
-    "Books/Nghĩ giàu làm giàu.md",
-    "Technical/Database/ORM",
-    "Company/Hodfords/Training",
-    "Company/Hodfords",
-    "Company/Renyoo"
+    "Untitled.canvas"
   ]
 }

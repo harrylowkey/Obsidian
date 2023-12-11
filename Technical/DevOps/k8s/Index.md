@@ -29,3 +29,6 @@ The worker node(s) host the [Pods](https://kubernetes.io/docs/concepts/workload
 - kubelet
 - kube-proxy
 - container runtime
+
+
+# [What's the difference between ClusterIP, NodePort and LoadBalancer service types in Kubernetes?](https://stackoverflow.com/questions/41509439/whats-the-difference-between-clusterip-nodeport-and-loadbalancer-service-types)

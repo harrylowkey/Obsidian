@@ -115,11 +115,10 @@ k get pods -o wide
 k -n <namespace> exec -it <pod-name> -- /bin/sh
 ```
 
-6. Forward pod
+6. Forward port
 ```
  kubectl -n <namespace> port-forward <pod-name> 5433(host-port):5432(container-pod)
 ```
-
 
 ## Namespaces
 
